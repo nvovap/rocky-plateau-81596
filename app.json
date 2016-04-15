@@ -1,18 +1,6 @@
 {
-  "name": "rocky-plateau-81596",
-  "description": "test heroku",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-    {
-      "url": "ls.js"
-    }
-  ]
+  "name": "Node.js Getting Started",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/nvovap/rocky-plateau-81596.git",
+  "keywords": ["node", "express", "static"]
 }
